@@ -1,0 +1,37 @@
+#MainDiv {
+    width: 600px;
+    height: flex;
+    padding: 50px;
+    border: 1px solid rgb(188, 188, 188);
+    margin: 0 350px 0 300px;
+}
+
+.address {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contactInfo {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(5, 164, 5);
+}
+
+div {
+    width: 600px;
+    height: flex;
+    padding: 0 50px 50px 50px;
+    border: 1px solid rgb(188, 188, 188);
+    margin: 0 350px 0 300px;
+}
+
+.career {
+    border-style: none;
+    padding: 0;
+    margin: 0 0 0 50px;
+    width: 500px;
+    text-align: center;
+    
+}
